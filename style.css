@@ -1,0 +1,46 @@
+  body{
+  background-color: #faf5ed;
+  font-family: Arial, sans-serif;
+}
+
+header{
+  background-color: #e8d7bf;
+  border-bottom: 3px solid #795638;
+}
+
+#headerh1{
+  font-family: Georgia, serif;
+  font-size: 2.5em;
+  color:  #62432c;
+}
+
+h1{
+  font-family: Georgia, serif;
+  font-size: 1.8em;
+  color:  #62432c;
+}
+
+nav{
+  font-size: 1.1em;
+}
+
+nav a{
+  color:  #513822;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+p, ul{
+  color: #35291f;
+}
+
+h2{
+  color: #62432c;
+  font-family: Georgia, serif;
+  font-size: 1.4em;
+  border-bottom: 1px solid #c9b398;
+} 
+
+footer{
+  background-color: #e8d7bf;
+}
